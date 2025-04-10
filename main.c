@@ -3,6 +3,6 @@
 int main () {
     printf("guilherme froner");
     printf("\n");
-    printf("ola");
+    printf("o pedro luchese");
     return 0;
 }
